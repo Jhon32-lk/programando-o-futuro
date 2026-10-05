@@ -1,0 +1,7 @@
+O que é software?
+
+R: É a parte lógica que funciona dentro do computador, como apps, códigos, sistemas operacionais e etc.
+
+O que é hardware?
+
+R: É a parte física do dispositivo, como CPU, GPU, memória RAM, SSD, entre outros.
